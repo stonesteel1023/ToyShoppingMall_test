@@ -17,6 +17,7 @@ create table customer
 c_code varchar(30) not null,
 c_name varchar(10) not null,
 c_address varchar(50) not null,
+c_sex varchar(10) not null,
 c_tel varchar(20) not null
 )
 
